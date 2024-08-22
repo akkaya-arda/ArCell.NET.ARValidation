@@ -18,7 +18,7 @@ This project provides a validation library for .NET. It offers advanced validati
   ```NuGet Install ArCell.NET.ARValidation```
 
 ## Creating Validators
-Your validators should be inherited from BaseValidator class.
+Your validators should be inherited from BaseEntityValidator class.
 ```
 public class ProductValidator : BaseEntityValidator<Product>{
   public override void ConfigureRules(Product entity)
