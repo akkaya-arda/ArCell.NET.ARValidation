@@ -1,0 +1,12 @@
+/Users/m.ardaakkaya/RiderProjects/TestingConsole/ArCell.NET.ARValidation/bin/Debug/net8.0/ArCell.NET.ARValidation.deps.json
+/Users/m.ardaakkaya/RiderProjects/TestingConsole/ArCell.NET.ARValidation/bin/Debug/net8.0/ArCell.NET.ARValidation.dll
+/Users/m.ardaakkaya/RiderProjects/TestingConsole/ArCell.NET.ARValidation/bin/Debug/net8.0/ArCell.NET.ARValidation.pdb
+/Users/m.ardaakkaya/RiderProjects/TestingConsole/ArCell.NET.ARValidation/obj/Debug/net8.0/ArCell.NET.ARValidation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m.ardaakkaya/RiderProjects/TestingConsole/ArCell.NET.ARValidation/obj/Debug/net8.0/ArCell.NET.ARValidation.AssemblyInfoInputs.cache
+/Users/m.ardaakkaya/RiderProjects/TestingConsole/ArCell.NET.ARValidation/obj/Debug/net8.0/ArCell.NET.ARValidation.AssemblyInfo.cs
+/Users/m.ardaakkaya/RiderProjects/TestingConsole/ArCell.NET.ARValidation/obj/Debug/net8.0/ArCell.NET.ARValidation.csproj.CoreCompileInputs.cache
+/Users/m.ardaakkaya/RiderProjects/TestingConsole/ArCell.NET.ARValidation/obj/Debug/net8.0/ArCell.NET.ARValidation.dll
+/Users/m.ardaakkaya/RiderProjects/TestingConsole/ArCell.NET.ARValidation/obj/Debug/net8.0/refint/ArCell.NET.ARValidation.dll
+/Users/m.ardaakkaya/RiderProjects/TestingConsole/ArCell.NET.ARValidation/obj/Debug/net8.0/ArCell.NET.ARValidation.pdb
+/Users/m.ardaakkaya/RiderProjects/TestingConsole/ArCell.NET.ARValidation/obj/Debug/net8.0/ref/ArCell.NET.ARValidation.dll
+/Users/m.ardaakkaya/RiderProjects/TestingConsole/ArCell.NET.ARValidation/obj/Debug/net8.0/ArCell.NET.ARValidation.csproj.AssemblyReference.cache

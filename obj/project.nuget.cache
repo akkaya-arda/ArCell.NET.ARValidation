@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wAUq8KqILDM=",
+  "success": true,
+  "projectFilePath": "/Users/m.ardaakkaya/RiderProjects/ArCell.NET.ARValidation/ArCell.NET.ARValidation.csproj",
+  "expectedPackageFiles": [
+    "/Users/m.ardaakkaya/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
